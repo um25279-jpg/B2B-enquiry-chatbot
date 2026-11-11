@@ -38,7 +38,7 @@ The chatbot follows a Chatflow architecture:
 2. **Knowledge Retrieval:** Searches the uploaded company knowledge base for relevant information.
 3. **LLM:** Generates contextual responses using retrieved information.
 4. **Answer:** Displays the response to the customer.
-
+![Dify Workflow](workflow.png)
 ## 5. Key Features
 
 - RAG-based customer enquiry handling.
